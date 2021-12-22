@@ -5,4 +5,5 @@ result.
 program:
 
 output:
+
 ![output](pgm2.png)
