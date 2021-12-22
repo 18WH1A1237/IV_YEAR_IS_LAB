@@ -8,6 +8,9 @@ program:
 
 
 output:
+
 ![output](CeaserCipher.png)
+
 ![output](HillCipher.png)
+
 ![output](Substitution.png)
