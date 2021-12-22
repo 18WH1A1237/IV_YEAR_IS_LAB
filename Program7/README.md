@@ -4,4 +4,4 @@ program:
 
 output:
 
-![output](Hellman.png)
+![output](rc4.png)
