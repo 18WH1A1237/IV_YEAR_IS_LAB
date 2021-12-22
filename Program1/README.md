@@ -4,4 +4,5 @@ program:
 
 
 output:
+![image](pgm1.png)
 
