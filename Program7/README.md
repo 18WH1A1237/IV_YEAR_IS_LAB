@@ -4,4 +4,4 @@ program:
 
 output:
 
-![output](rc4.png)
+![output](pgm7.png)
